@@ -1,6 +1,6 @@
 # C para Iniciantes
 
-Este repositório foi criado para fornecer materiais educativos e práticos para quem está começando a aprender programação. Aqui, você encontrará aulas estruturadas para ajudar você a construir uma base na linguagem C.
+Este repositório foi criado para fornecer materiais educativos e práticos para quem está começando a aprender programação. [Aqui](aulas), você encontrará aulas estruturadas para ajudar você a construir uma base na linguagem C.
 
 ## Como Começar
 
