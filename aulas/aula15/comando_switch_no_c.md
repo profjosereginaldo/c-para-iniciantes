@@ -14,9 +14,10 @@ switch (<variável>) {
     case valor2:
         // Código a ser executado
         break;
-/* 
-    ... outros case ...
-*/
+    // ...
+    case valorN:
+        // Código a ser executado
+        break;
     default:
         // Código a ser executado
 }
