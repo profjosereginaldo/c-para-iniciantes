@@ -8,7 +8,7 @@ Cada aula possui seu próprio diretório com materiais específicos. Siga a orde
 
 Faça um fork do repositório para ter uma cópia dele para você.
 
-Acessa a ferramenta [Replit](https://replit.com) para trabalhar os códigos do repostório. Utilize a sua conta do GitHub para criar uma conta na ferramenta.
+Acesse a ferramenta [Replit](https://replit.com) para trabalhar os códigos do repostório. Utilize a sua conta do GitHub para criar uma conta na ferramenta.
 
 ## Contribuições
 
